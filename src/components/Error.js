@@ -1,4 +1,5 @@
 import React from 'react'
+
 let errorBox = {
     padding: '10px',
     margin: '20px',
